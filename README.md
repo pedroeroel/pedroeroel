@@ -29,6 +29,6 @@
     <div>
       <a target="_blank" href="https://linkedin.com/in/pedroedroel"><img height="30em" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
       <a target="_blank" href="pedroedroel@gmail.com"><img height="30em" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
-      <a target="_blank" href="https://instagram.com/pedroroelcode"><img height="30em" src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
+      <a target="_blank" href="https://instagram.com/roelcode"><img height="30em" src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
     </div>
   </div>
