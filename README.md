@@ -3,7 +3,7 @@
 - 🔭 I’m currently working on fullstack;
 - 🌱 I’m currently learning javascript/typescript;
 - 📫 How to reach me: https://linkedin.com/in/pedroedroel;
-- 😄 Pronouns: He/His
+- 😄 Pronouns: He/His;
 
   <div style="
     display: flex;
