@@ -15,6 +15,7 @@
       <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedroedroel&layout=compact&langs_count=6&theme=holi" />
     </a>
    <div style="
+     width= 100%;
      display: flex;
      justify-content: space-around;
      flex-flow: wrap row;
