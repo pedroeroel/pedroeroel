@@ -1,6 +1,6 @@
 ## Hello there! I'm Roel! 👋
 
-- 🔭 I’m currently working on fullstack;
+- 🔭 I’m currently working with fullstack;
 - 🌱 I’m currently learning javascript/typescript;
 - 📫 How to reach me: https://linkedin.com/in/pedroedroel;
 - 😄 Pronouns: He/His;
