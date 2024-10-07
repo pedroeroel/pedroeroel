@@ -7,13 +7,12 @@
 
   <div style="
     display: flex;
-    flex-wrap: wrap;
+    flex-wrap: nowrap;
     justify-content: start;
     ">
-    <a>
       <img height="180em" src="https://github-readme-stats.vercel.app/api?username=pedroedroel&theme=holi&show_icons=true" />
       <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedroedroel&layout=compact&langs_count=6&theme=holi" />
-    </a>
+  </div>
    <div style="
      width= 100%;
      display: flex;
