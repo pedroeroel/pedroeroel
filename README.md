@@ -10,8 +10,8 @@
     flex-wrap: nowrap;
     justify-content: start;
     ">
-      <img height="180em" src="https://github-readme-stats.vercel.app/api?username=pedroedroel&theme=holi&show_icons=true" />
-      <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedroedroel&layout=compact&langs_count=6&theme=holi" />
+      <img height="180em" src="https://github-readme-stats.vercel.app/api?username=pedroeroel&theme=holi&show_icons=true" />
+      <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedroeroel&layout=compact&langs_count=6&theme=holi" />
   </div>
    <div style="
      width= 100%;
