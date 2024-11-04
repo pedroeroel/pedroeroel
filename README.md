@@ -25,6 +25,7 @@
       <img height ="30em" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white">
       <img height ="30em" src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white">
       <img height ="30em" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white">
+      <img height = "30em" src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white">
    </div>
 
     <div>
