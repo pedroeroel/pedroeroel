@@ -13,6 +13,11 @@
       <img height="160em" src="https://github-readme-stats.vercel.app/api?username=pedroeroel&theme=holi&show_icons=true" />
       <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedroeroel&layout=compact&langs_count=6&theme=holi" />
   </div>
+
+  <hr>
+
+  <h2>Technology Skill Collection</h4>
+  
    <div style="
      width= 100%;
      display: flex;
@@ -30,6 +35,8 @@
    </div>
 
    <hr>
+
+    <h2>My social media</h4>
 
     <div>
       <a target="_blank" href="https://linkedin.com/in/pedroedroel"><img height="30em" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
