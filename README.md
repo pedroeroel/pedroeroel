@@ -3,7 +3,7 @@
 - 🔭 I’m currently working with fullstack developing;
 - 🌱 I’m currently learning JS/TS;
 - 📫 How to reach me:
-> - https://linkedin.com/in/pedroedroel;
+> - <a href='https://linkedin.com/in/pedroedroel' target='_blank'>My LinkedIn</a>;
 > - pedroedroel@gmail.com
 
   <div style="
