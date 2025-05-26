@@ -1,9 +1,10 @@
-## Hello there! I'm Roel! 👋
+## What's up? I'm Roel! 👋
 
-- 🔭 I’m currently working with fullstack;
-- 🌱 I’m currently learning javascript/typescript;
-- 📫 How to reach me: https://linkedin.com/in/pedroedroel;
-- 😄 Pronouns: He/His;
+- 🔭 I’m currently working with fullstack developing;
+- 🌱 I’m currently learning JS/TS;
+- 📫 How to reach me:
+> - https://linkedin.com/in/pedroedroel;
+> - pedroedroel@gmail.com
 
   <div style="
     display: flex;
