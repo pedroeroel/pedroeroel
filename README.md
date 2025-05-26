@@ -35,8 +35,6 @@
       <img height="30em" src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white">
    </div>
 
-   <hr>
-
   <h2>My social media</h4>
 
   <div>
